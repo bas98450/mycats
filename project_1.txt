@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<title>My Cats</title>
+		<meta charset="utf-8">
+	</head>
+<body>
+<div>
+	<header>
+		<h1>These are my cats</h1>
+			<p>They don't live with me yet. My roommates family is fostering them, but <time>soon</time> they will be ours!
+			<br>There are two of them:</p>
+				<ul>
+					<li>Peppino <li>Naomi
+				</ul>
+	</header>
+</div>
+	
+<main>
+<article>
+	<h2>Peppino</h2>
+	<img src="https://cdn.discordapp.com/attachments/963302790749380658/1016067420135358546/IMG_6788.png" width="200" height="200">
+	<p>Peppino is just a little guy!</p>
+	<figure>Reasons Peppino is <em>epic</em>:</figure>
+		<ol>
+			<li>help <li>me <li>please
+		</ol>
+		<aside><p>Did you know?<br><em>Peppino is a black cat, which means that I like him and he's cute</em></aside>
+</article>
+<article>
+	<h2>Naomi</h2>
+	<img src="https://cdn.discordapp.com/attachments/903825113676394496/1001198616049893546/IMG_20220718_155529386.jpg" width="200" height="200">
+	<p><q><span style="color:red">Naomi is a <strong>problem.</strong></span></q></p>
+</article>
+	<h2>What I plan on feeding the beasts</h2>
+		<table>
+			<tr>
+				<th><pre>Meat</pre></th>
+				<th><pre>Non-meat</pre></th>
+				<th><pre>???</pre></th>
+			</tr>
+			<tr>
+				<td>Chicken</td> 
+				<td>Corn</td> 
+				<td>Lego</td> 
+			</tr>
+			<tr>
+				<td>Beef</td> 
+				<td>Watermelon</td> 
+				<td>Poker Chip</td> 
+			</tr>
+			<tr>
+				<td>Man</td> 
+				<td>Peas</td> 
+				<td>Something Far More Sinister</td>
+		</table>
+</main>
+</body>
+<br>
+	<footer>
+		<nav>
+			<a href="https://twitter.com/CornChips__">Twitter</a> |
+			<a href="https://www.instagram.com/benzyme/">Instagram</a> 
+		</nav>
+	</footer>
+
+</html>
